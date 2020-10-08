@@ -1,0 +1,11 @@
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\bin\Debug\Sanal Klavye.exe.config
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\bin\Debug\Sanal Klavye.exe
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\bin\Debug\Sanal Klavye.pdb
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal_Klavye.Form1.resources
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal_Klavye.Properties.Resources.resources
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal Klavye.csproj.GenerateResource.cache
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal Klavye.csproj.CoreCompileInputs.cache
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal Klavye.exe
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal Klavye.pdb
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal Klavye.csprojAssemblyReference.cache
+C:\Users\pence\source\repos\Sanal Klavye\Sanal Klavye\obj\Debug\Sanal_Klavye.Form2.resources
